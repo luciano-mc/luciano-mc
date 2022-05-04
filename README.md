@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Luciano
 
-Junior web developer, and a future full stack developer. **Looking for my first job**
+Junior web developer 💻 and a future full stack. **Looking for my first job**
 ___
 
 
