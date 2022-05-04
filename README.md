@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Luciano
 
-I'm a student on a bootcamp, and a future full stack developer
+Junior web developer, and a future full stack developer. Looking for my first job
 ___
 
 
-- 🔭 I’m currently working on: landing pages and small projects to perform my javascript knowledge
-- 🌱 I’m currently learning: Javascript, React
+- 🔭 I’m currently working on: landing pages and small projects
+- 🌱 I’m currently learning: JS vanilla
 - 👯 I’m looking to collaborate on: my first project
-- 📫 How to reach me: https://www.linkedin.com/in/luciano-carrivale-806b5966/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luciano-carrivale-806b5966/)
 - ⚡ Fun fact: I can't stop learning new things, really
 
 <!--
