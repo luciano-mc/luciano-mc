@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Luciano
+
+I'm a student on a bootcamp, and a future full stack developer
+
+- 🔭 I’m currently working on: landing pages and small projects to perform my javascript knowledge
+- 🌱 I’m currently learning: Javascript, React
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: https://www.linkedin.com/in/luciano-carrivale-806b5966/
+- ⚡ Fun fact: I can't stop learning new things, really
 
 <!--
 **luciano-mc/luciano-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
