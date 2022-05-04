@@ -6,7 +6,7 @@ ___
 
 - 🔭 I’m currently working on: landing pages and small projects to perform my javascript knowledge
 - 🌱 I’m currently learning: Javascript, React
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on: my first project
 - 📫 How to reach me: https://www.linkedin.com/in/luciano-carrivale-806b5966/
 - ⚡ Fun fact: I can't stop learning new things, really
 
