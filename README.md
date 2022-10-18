@@ -4,8 +4,8 @@ Junior web developer 💻 and a future full stack. **Looking for my first job**
 ___
 
 
-- 🔭 I’m currently working on: **landing pages and small projects**
-- 🌱 I’m currently learning: **JS vanilla**
+- 🔭 I’m currently working on: **ecommerce for my final project on the bootcamp**
+- 🌱 I’m currently learning: **React**
 - 👯 I’m looking to collaborate on: my first project
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/luciano-carrivale-806b5966/)**
 - ⚡ Fun fact: I can't stop learning new things, really
