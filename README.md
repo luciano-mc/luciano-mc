@@ -1,14 +1,15 @@
 ### Hi there 👋 I'm Luciano
 
-Junior web developer 💻 and a future full stack. **Looking for my first job**
+Junior full stack web developer 💻. **Looking for my first job**
 ___
 
 
 - 🔭 I’m currently working on: **ecommerce for my final project on the bootcamp**
 - 🌱 I’m currently learning: **React**
 - 👯 I’m looking to collaborate on: my first project
-- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/luciano-carrivale-806b5966/)**
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/luciano-carrivale/)**
 - ⚡ Fun fact: I can't stop learning new things, really
+- 🎫 Check my ecommerce on development [here](https://ecommerce-jc.vercel.app)
 
 <!--
 **luciano-mc/luciano-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
