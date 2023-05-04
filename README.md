@@ -4,9 +4,9 @@ Full stack web developer 💻
 ___
 
 
-- 🔭 I’m currently working on: **ecommerce for my final project on the bootcamp**
+- 🔭 I’m currently working on: **Recipe App on React**
 - 🌱 I’m currently learning: **React**
-- 👯 I’m looking to collaborate on: my first project
+- 👯 I’m looking to collaborate on: an Ecommerce or Education website
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/luciano-carrivale/)**
 - ⚡ Fun fact: I can't stop learning new things, really
 - 🎫 Check my ecommerce on development [here](https://ecommerce-jc.vercel.app)
