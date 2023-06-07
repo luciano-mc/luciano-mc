@@ -4,12 +4,12 @@ Full stack web developer 💻
 ___
 
 
-- 🔭 I’m currently working on: **Recipe App on React**
+- 🔭 I’m currently working on: **Recipe App**
 - 🌱 I’m currently learning: **React**
 - 👯 I’m looking to collaborate on: an Ecommerce or Education website
-- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/luciano-carrivale/)**
+- 📫 How to reach me: **luciano.martiin@gmail.com**
 - ⚡ Fun fact: I can't stop learning new things, really
-- 🎫 Check my ecommerce on development [here](https://ecommerce-jc.vercel.app)
+- 🎫 Check my ecommerce on development [here](https://jugueteria-cosmica.glitch.me/)
 
 <!--
 **luciano-mc/luciano-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
