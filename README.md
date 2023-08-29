@@ -5,7 +5,7 @@ ___
 
 
 - 🔭 I’m currently working on: **Recipe App**
-- 🌱 I’m currently learning: **React Native and Python**
+- 🌱 I’m currently learning: **React Native**
 - 👯 I’m looking to collaborate on: an Ecommerce or Education website
 - 📫 How to reach me: **luciano.martiin@gmail.com**
 - ⚡ Fun fact: I can't stop learning new things, really
