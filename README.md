@@ -4,7 +4,7 @@ Full stack web developer 💻
 ___
 
 
-- 🔭 I’m currently working on: **Recipe App**
+- 🔭 I’m currently working on: **Mobile App**
 - 🌱 I’m currently learning: **Azure**
 - 👯 I’m looking to collaborate on: an Ecommerce or Education website
 - 📫 How to reach me: **luciano.martiin@gmail.com**
