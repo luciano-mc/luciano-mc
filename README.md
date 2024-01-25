@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Luciano
 
-Full stack web developer 💻
+Frontend web developer 💻
 ___
 
 
